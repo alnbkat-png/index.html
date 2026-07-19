@@ -1,4 +1,3 @@
-# index.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,6 +8,6 @@
     </style>
 </head>
 <body>
-    Bạn có bị gay không?
+    Thay dòng chữ troll bạn bè của bạn vào đây!
 </body>
 </html>
